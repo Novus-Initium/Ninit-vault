@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"cb9c92e27aa6312b","type":"text","text":"Ninit","x":-434,"y":-165,"width":250,"height":60},
+		{"id":"041ec5833be9e620","type":"text","text":"Web 3 Weds","x":260,"y":-165,"width":250,"height":60},
+		{"id":"3838b0ebeb9cc088","type":"text","text":"Novus Initium","x":-100,"y":-20,"width":250,"height":60},
+		{"id":"d178d3bde5666fba","type":"text","text":"N-Init","x":-100,"y":-300,"width":250,"height":60},
+		{"id":"6ce669443fd88be7","type":"text","text":"Ninit Network","x":-60,"y":-165,"width":250,"height":60},
+		{"id":"5c4bc3b2be2491b9","x":260,"y":-420,"width":140,"height":120,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"a17a40b18cff55ce","fromNode":"cb9c92e27aa6312b","fromSide":"right","toNode":"6ce669443fd88be7","toSide":"left"},
+		{"id":"95fa4ae90b112853","fromNode":"cb9c92e27aa6312b","fromSide":"right","toNode":"d178d3bde5666fba","toSide":"left"},
+		{"id":"5a1a47e4daa0d340","fromNode":"6ce669443fd88be7","fromSide":"right","toNode":"041ec5833be9e620","toSide":"left"},
+		{"id":"b2172636b12b92f3","fromNode":"cb9c92e27aa6312b","fromSide":"right","toNode":"3838b0ebeb9cc088","toSide":"left"}
+	]
+}
