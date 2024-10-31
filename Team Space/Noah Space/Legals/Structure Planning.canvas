@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"215478d466b37d24","type":"text","text":"NinitCorp.","x":-92,"y":-241,"width":250,"height":60},
+		{"id":"382a6414317cd937","type":"text","text":"Ninit LLC","x":-92,"y":-60,"width":250,"height":60},
+		{"id":"c1d672b8951c948b","type":"text","text":"Colorado, USA","x":-420,"y":-60,"width":250,"height":60},
+		{"id":"d68b98e42c7db7bc","type":"file","file":"Team Space/Noah Space/Legals/Register/Business Inc..md","x":-560,"y":-700,"width":400,"height":400},
+		{"id":"bed9683503ce86fb","type":"text","text":"Cayman Islands/BVI/Puerto Rico","x":-460,"y":-241,"width":300,"height":60},
+		{"id":"b452139722350139","type":"text","text":"Payout $$","x":100,"y":-440,"width":250,"height":60},
+		{"id":"5001d2b3884d996a","type":"text","text":"Ninit Non-Profit","x":-217,"y":170,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"ea12a5afe33f1579","fromNode":"c1d672b8951c948b","fromSide":"right","toNode":"382a6414317cd937","toSide":"left"},
+		{"id":"837d007f0dfa3d40","fromNode":"d68b98e42c7db7bc","fromSide":"bottom","toNode":"bed9683503ce86fb","toSide":"top"},
+		{"id":"a0ccfb1ecb5c301c","fromNode":"bed9683503ce86fb","fromSide":"right","toNode":"215478d466b37d24","toSide":"left"},
+		{"id":"9d4c6771e893d287","fromNode":"215478d466b37d24","fromSide":"top","toNode":"b452139722350139","toSide":"bottom"}
+	]
+}

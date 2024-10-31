@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"7479eece7e5b914d","type":"text","text":"Where do tax dollars go?","x":-220,"y":-140,"width":310,"height":60},
+		{"id":"704d1a204d435ec9","type":"text","text":"Education (Crypto Onboarding)","x":-200,"y":60,"width":320,"height":60},
+		{"id":"ed507f14369d2ada","type":"text","text":"Raise Funds for Ninit","x":-325,"y":400,"width":250,"height":60},
+		{"id":"43abc22c8805b12b","type":"text","text":"Update Front End/Landing Page","x":-325,"y":480,"width":290,"height":60},
+		{"id":"44963575287269db","type":"text","text":"Grant Applications","x":125,"y":460,"width":250,"height":60},
+		{"id":"b8e9aad048b949e8","type":"text","text":"Local Ninit Events","x":-540,"y":60,"width":250,"height":60},
+		{"id":"821dd3c583bae523","type":"text","text":"Cushy Couch","x":180,"y":60,"width":250,"height":60},
+		{"id":"b1de17db8cc8551e","type":"text","text":"Q4 2024","x":0,"y":280,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"e5b593b44a08a172","fromNode":"ed507f14369d2ada","fromSide":"right","toNode":"44963575287269db","toSide":"left"}
+	]
+}

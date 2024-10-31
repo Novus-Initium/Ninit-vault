@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"a62118174d555689","type":"file","file":"Team Space/Noah Space/Grand Strategy/Maps/Colorado.jpg","x":120,"y":-367,"width":338,"height":259},
+		{"id":"c4e4206692473402","type":"file","file":"Team Space/Noah Space/Grand Strategy/Maps/New Mexico.jpg","x":137,"y":-80,"width":304,"height":331},
+		{"id":"68df3a5c97b89cfd","type":"text","text":"\n| Off-Grid Land       | Solar System |\n| ------------------- | ------------ |\n| Registered Business |              |\n","x":458,"y":39,"width":302,"height":161},
+		{"id":"2126acbba88e147d","type":"file","file":"Team Space/Noah Space/Grand Strategy/Maps/Oklahoma.png","x":480,"y":-179,"width":400,"height":199},
+		{"id":"2dd4e8dbd46dfd9a","type":"text","text":"\n| Ninit LLC |     |\n| --------- | --- |\n| ETHDenver |     |\n","x":480,"y":-351,"width":250,"height":114},
+		{"id":"492851b1b8d53325","type":"text","text":"\n| On grid House |     |\n| ------------- | --- |\n|               |     |\n","x":900,"y":-167,"width":250,"height":88},
+		{"id":"990c625bc6178e06","type":"file","file":"Team Space/Noah Space/Grand Strategy/Maps/California.jpg","x":-796,"y":-261,"width":500,"height":500},
+		{"id":"7f6f2ee4261613c5","type":"file","file":"Team Space/Noah Space/Grand Strategy/Maps/Nevada.jpg","x":-505,"y":-399,"width":359,"height":359},
+		{"id":"03cceedc9f573892","type":"text","text":"\n| On Grid House         |     |\n| --------------------- | --- |\n| Security Business (P) |     |\n","x":-450,"y":-560,"width":250,"height":125},
+		{"id":"c29b6c729a896d08","type":"file","file":"Team Space/Noah Space/Grand Strategy/Maps/Arizona.jpg","x":-200,"y":-81,"width":320,"height":320},
+		{"id":"1a4e43198aa5788e","type":"text","text":"\n| On Grid House         |     |\n| --------------------- | --- |\n| Security Business (P) |     |\n","x":-700,"y":251,"width":250,"height":87}
+	],
+	"edges":[]
+}
